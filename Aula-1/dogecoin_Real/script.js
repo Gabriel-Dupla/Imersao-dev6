@@ -1,6 +1,12 @@
-var valorDaDogecoin = 30;
+//Variáveis de reagente
+var valorReal = prompt("Quanto reais quer converter?");
 var cotacaoDaDogecoin = 0.45;
-var valorEmReal = valorDaDogecoin * cotacaoDaDogecoin;
+var cotacaoDolar = 5.09;
+var cotacaoDoEuro = 5.53;
 
-valorEmReal = valorEmReal.toFixed([2]);
-alert("R$" + valorEmReal);
+//Variáveis de produto
+var valorEmDolar = (valorReal * cotacaoDolar).toFixed([2]);
+var valorEmDogecoin = (valorReal * cotacaoDaDogecoin).toFixed([2]);
+var valorEmEuro = (valorReal * cotacaoDoEuro).toFixed([2]);
+
+alert("A quantidade de R$" + valorReal + " reais em dólar, dogecoin e euro respectivamente é: US$" + valorEmDolar + ", " + valorEmDogecoin + " e Є" + valorEmEuro);
