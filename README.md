@@ -1,17 +1,29 @@
+//logo imersão dev
+
 # Imersao-Dev6
 
-Status: ⚠️ Em andamento... ⚠️
+//background-image
 
-Sobre: 
+
+Sumário:
+
+//linha rasteira dividindo
+
+# Status: ⚠️ Em andamento... ⚠️
+
+//badge de em andamento
+
+# Sobre: 
 São 10 dias de imersão da Alura, onde pude estudar e desenvolver um projeto... O foco da imersão eram pessoas iniciantes em programação e a principais linguagens utilizadas foram...
 
-Projeto:
+# Projeto:
+//Descrição dos principais projetos desenvolvidos
 
+# Conhecimentos adquiridos:
+//Principais conhecimentos adquiridos
 
-Conhecimentos adquiridos:
+# Tecnologias utilizadas:
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
-
-Tecnologias utilizadas:
-
-
-Como executar:
+# Como executar:
+//Adicionar como funciona o processo de execução
