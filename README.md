@@ -14,10 +14,10 @@
 ---
 
 
-# 🪄 Sobre: 
+# 🪄 Sobre
 Durante 5 dias foram desenvolvidos diversos projetos na sexta edição da [Imersão Alura](https://imersao.dev/), onde pude estudar e desenvolver meus conhecimentos em programação. O foco da imersão eram pessoas iniciantes em programação e a principais linguagens utilizadas foram HTML, CSS e Javascript.
 
-## 📌 Projetos:
+## 📌 Projetos
 Durante a imersão Alura diversos projetos foram desenvolvidos, entre eles se destacam:
 - [Calculadora de Celsius para Fahrenheit e Kelvin](https://github.com/Gabriel-Dupla/Imersao-dev6/tree/main/Aula-1/conversor%20de%20temperaturas);
 - [Jogo de advinhação](https://github.com/Gabriel-Dupla/Imersao-dev6/tree/main/Aula-2/mentalista);
@@ -25,10 +25,10 @@ Durante a imersão Alura diversos projetos foram desenvolvidos, entre eles se de
 - [Tabela de Pontuações manipulável]().
 
 
-## 📚 Conhecimentos adquiridos:
+## 📚 Conhecimentos adquiridos
 - 
 
-## 💻 Tecnologias utilizadas:
+## 💻 Tecnologias utilizadas
 - Software de manipulação e visualização de código [Codepen](https://codepen.io/);
 - Linguagem de programação Javascript;
 - Linguagem de marcação HTML; 
@@ -38,5 +38,5 @@ Durante a imersão Alura diversos projetos foram desenvolvidos, entre eles se de
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
 
-## 🛑 Como executar:
+## 🛑 Como executar
 //site?
