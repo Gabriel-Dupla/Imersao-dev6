@@ -1,4 +1,6 @@
-//logo imersão dev
+<p align="center">
+  <img src="https://i.imgur.com/1AxzYTZ.png" alt="Logo Imersão Alura">
+</p>
 
 # Imersao-Dev6
 
