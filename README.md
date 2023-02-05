@@ -5,11 +5,11 @@
 <h1 align="center" text-color="#f1f1f1"> Imersao Dev 6 </h1>
 
 # ♾️Sumário:
-- [Sobre](#Sobre)
-- [Projeto](##Projeto)
-- [Conhecimentos adquiridos](##Conhecimentos-adquiridos)
-- [Tecnologias utilizadas](##Tecnologias-utilizadas)
-- [Como executar](##Como-executar)
+- [Sobre](# 🪄 Sobre)
+- [Projeto](# 📌 Projetos)
+- [Conhecimentos adquiridos](# 📚 Conhecimentos adquiridos)
+- [Tecnologias utilizadas](# 💻 Tecnologias utilizadas)
+- [Como executar](# 🛑 Como executar)
 
 ---
 
