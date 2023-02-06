@@ -21,7 +21,7 @@ Durante 5 dias foram desenvolvidos diversos projetos na sexta edição da [Imers
 Durante a imersão Alura diversos projetos foram desenvolvidos, entre eles se destacam:
 - [Calculadora de Celsius para Fahrenheit e Kelvin](https://github.com/Gabriel-Dupla/Imersao-dev6/tree/main/Aula-1/conversor%20de%20temperaturas);
 - [Jogo de advinhação](https://github.com/Gabriel-Dupla/Imersao-dev6/tree/main/Aula-2/mentalista);
-- Simulador de plataforma de streaming(https://github.com/Gabriel-Dupla/Imersao-dev6/tree/main/Aula-4);
+- [Simulador de plataforma de streaming](https://github.com/Gabriel-Dupla/Imersao-dev6/tree/main/Aula-4);
 - [Tabela de Pontuações manipulável]().
 
 
@@ -41,4 +41,4 @@ Durante a imersão Alura diversos projetos foram desenvolvidos, entre eles se de
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Como executar
-Realizando o download do projeto clicando na opção Code e em seguida selecionando Download Zip.
+Realizando o download do projeto clicando na opção Code e em seguida selecionando Download Zip ou pelo link: [Codepen Imersão Alura](https://codepen.io/collection/oEZmom).
