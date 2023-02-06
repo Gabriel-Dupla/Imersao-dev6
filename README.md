@@ -1,29 +1,14 @@
-//logo imersão dev
+<p align="center">
+  <img src="https://i.imgur.com/1AxzYTZ.png" alt="Logo Imersão Alura">
+</p>
 
-# Imersao-Dev6
+<h1 align="center"> Imersao Dev 6 </h1>
 
-//background-image
+### Desafios
+- 1º Desafio: 
+- 2º Desafio: 
+- 3º Desafio: 
+-
 
-
-Sumário:
-
-//linha rasteira dividindo
-
-# Status: ⚠️ Em andamento... ⚠️
-
-//badge de em andamento
-
-# Sobre: 
-São 10 dias de imersão da Alura, onde pude estudar e desenvolver um projeto... O foco da imersão eram pessoas iniciantes em programação e a principais linguagens utilizadas foram...
-
-# Projeto:
-//Descrição dos principais projetos desenvolvidos
-
-# Conhecimentos adquiridos:
-//Principais conhecimentos adquiridos
-
-# Tecnologias utilizadas:
-![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-
-# Como executar:
-//Adicionar como funciona o processo de execução
+## Como executar
+Realizando o download do projeto clicando na opção Code e em seguida selecionando Download Zip ou pelo link: [Codepen Imersão Alura](https://codepen.io/collection/RzQvjE).
