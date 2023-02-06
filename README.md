@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/1AxzYTZ.png" alt="Logo Imersão Alura">
 </p>
 
-<h1 align="center" text-color="#f1f1f1"> Imersao Dev 6 </h1>
+<h1 align="center"> Imersao Dev 6 </h1>
 
 # ♾️Sumário:
 - [Sobre](#sobre)
@@ -41,4 +41,4 @@ Durante a imersão Alura diversos projetos foram desenvolvidos, entre eles se de
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Como executar
-Realizando o download do projeto clicando na opção Code e em seguida selecionando Download Zip ou pelo link: [Codepen Imersão Alura](https://codepen.io/collection/oEZmom).
+Realizando o download do projeto clicando na opção Code e em seguida selecionando Download Zip ou pelo link: [Codepen Imersão Alura](https://codepen.io/collection/RzQvjE).
