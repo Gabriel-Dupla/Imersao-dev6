@@ -5,9 +5,9 @@
 <h1 align="center"> Imersao Dev 6 </h1>
 
 ### Desafios
-- 1º Desafio: 
-- 2º Desafio: 
-- 3º Desafio: 
+- 1º Desafio: Utilizar forEach;
+- 2º Desafio: Imagens somente de um tipo de arquivo (jpg);
+- 3º Desafio: Adicionar e remover poster direto da tela.
 
 
 ## Como executar
