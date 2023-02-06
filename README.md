@@ -26,7 +26,13 @@ Durante a imersão Alura diversos projetos foram desenvolvidos, entre eles se de
 
 
 ## Conhecimentos adquiridos
-- 
+- Conceitos básicos de Javascript;
+- Conexão entre HTML, CSS e Javascript;
+- Manipulação de objetos;
+- Uso de HTML internamente ao Javascript.
+
+
+
 
 ## Tecnologias utilizadas
 - Software de manipulação e visualização de código [Codepen](https://codepen.io/);
